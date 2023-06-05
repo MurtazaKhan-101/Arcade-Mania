@@ -1,0 +1,5 @@
+﻿  Arcade.cpp
+C:\Users\Murtaza\source\repos\Arcade\Arcade\flappybird.h(88,26): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\Murtaza\source\repos\Arcade\Arcade\flappybird.h(104,26): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\Murtaza\source\repos\Arcade\Arcade\Pong.h(135,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Arcade.vcxproj -> C:\Users\Murtaza\source\repos\Arcade\x64\Debug\Arcade.exe
